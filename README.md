@@ -4,6 +4,15 @@
 ## Overview
 `price2audio` its a library for convert the structure of market  eurusd to audio. it's amazing.
 
+
+## How to Install
+Install the requirements neccesary: 
+
+```bash
+pip3.8 install pydub numpy yfinance
+```
+
+
 ## How to Execute
 To run the script, you need to pass the symbol of the currency pair you want to analyze as an argument. For example:
 
