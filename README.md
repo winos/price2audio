@@ -9,7 +9,7 @@
 Install the requirements neccesary: 
 
 ```bash
-pip3.8 install pydub numpy yfinance
+pip install pydub numpy yfinance
 ```
 
 
