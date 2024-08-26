@@ -2,7 +2,7 @@
 # Price2Audio
 
 ## Overview
-`price2audio` its a library for convert the structure of market  (eurusdU) forex or crypto to audio. it's amazing.
+`price2audio` its a library for convert the structure of market  (EURUSD)  forex or crypto to audio. It's amazing.
 
 
 ## How to Install
